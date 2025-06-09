@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently working as an Intern at EDA-IBEHT
+- 📫 How to reach me: kyron_teves@dlsu.edu.ph
