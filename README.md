@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,html" alt="My Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" alt="My Tech Stack" />
 
 ## 🌐 Connect with Me
 
