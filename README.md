@@ -10,11 +10,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,git,github,vscode,html" alt="My Tech Stack" />
-
-## 📈 GitHub Stats
-
-![KyronTeves's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyronTeves&show_icons=true&theme=github_dark)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,html" alt="My Tech Stack" />
 
 ## 🌐 Connect with Me
 
