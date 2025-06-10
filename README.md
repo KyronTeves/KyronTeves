@@ -6,6 +6,7 @@ Welcome to my GitHub profile!
 
 - 🔭 I’m currently working as an Intern at EDA-IBEHT.
 - 🌱 I’m always learning new technologies and best practices.
+- 😄 Hobbies: Reading (fiction, news), video games
 - 📫 How to reach me: [kyron_teves@dlsu.edu.ph](mailto:kyron_teves@dlsu.edu.ph)
 
 ## 🛠️ Technologies & Tools
