@@ -15,6 +15,7 @@ Welcome to my GitHub profile!
 
 ## 🌐 Connect with Me
 
+[![Facebook](https://img.shields.io/badge/Facebook-roaldkyronsteves-blue?logo=facebook)](https://facebook.com/roaldkyronsteves)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kyronteves-blue?logo=linkedin)](https://linkedin.com/in/kyronteves)
 
 ---
